@@ -1,2 +1,2 @@
 # SINCS_Compression
-Compressing arbitrary-dimensional biomedical iamges using Semantic redundancy-aware implicit neural compression
+Compressing arbitrary-dimensional biomedical images using Semantic redundancy-aware implicit neural compression
